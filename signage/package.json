@@ -2,7 +2,7 @@
   "name": "signage",
   "productName": "signage",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -40,7 +40,7 @@
     "name": "MeemeeLab",
     "email": "57629983+MeemeeLab@users.noreply.github.com"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1"
   }

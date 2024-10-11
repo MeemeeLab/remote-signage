@@ -1,0 +1,25 @@
+{
+  "name": "epg-parser",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@stylistic/eslint-plugin": "^2.6.4",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.5.0",
+    "@typescript-eslint/eslint-plugin": "^8.2.0",
+    "eslint": "^8.56.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-node": "^11.1.0",
+    "express": "^4.21.0",
+    "typed-htmx": "^0.3.1",
+    "undici": "^6.19.8"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
